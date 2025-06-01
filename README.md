@@ -6,8 +6,6 @@
 
 This repository contains the backend implementation of the **Expense Tracker App**, a RESTful API designed to manage user expenses. The API supports user registration, JWT-based authentication, and CRUD operations for expenses with filtering capabilities. The backend is built with **Nest.js**, uses **TypeScript** for strict typing, and persists data in **PostgreSQL** using **TypeORM**.
 
-This project adheres to Senior Full-Stack Developer standards, featuring modular architecture, unit tests, strict linting, and Swagger documentation for API exploration.
-
 ---
 
 ## Features
