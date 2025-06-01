@@ -45,7 +45,7 @@ This project adheres to Senior Full-Stack Developer standards, featuring modular
 - **Node.js**: Version 18.x or higher.
 - **npm**: Version 9.x or higher.
 - **PostgreSQL**: Version 15.x or higher, running on `localhost:5432` (or update the `.env` file).
-- **Frontend**: Ensure the [Expense Tracker Frontend](https://github.com/your-username/expense-tracker-frontend) is set up to communicate with this API.
+- **Frontend**: Ensure the [Expense Tracker Frontend](https://github.com/ivkelesh/expense-tracker-frontend) is set up to communicate with this API.
 
 ---
 
@@ -54,7 +54,7 @@ This project adheres to Senior Full-Stack Developer standards, featuring modular
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/expense-tracker-backend.git
+   git clone https://github.com/ivkelesh/expense-tracker-backend.git
    cd expense-tracker-backend
    ```
 
@@ -223,12 +223,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Last Updated
-
-This README was last updated on **June 01, 2025, at 09:03 PM EEST**.
-
----
-
 ## Contact
 
-For questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, please contact [ivan.keles@gmail.com](mailto:ivan.keles@gmail.com).
